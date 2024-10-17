@@ -425,7 +425,7 @@ export default {
   com_auth_click_here: 'Clique aqui',
   com_auth_to_try_again: 'para tentar novamente.',
   com_auth_submit_registration: 'Enviar registro',
-  com_auth_welcome_back: 'Bem-vindo de volta',
+  com_auth_welcome_back: 'HYPRLAB CHAT',
   com_auth_back_to_login: 'Voltar para Login',
   com_auth_email_verification_failed: 'Falha na verificação de e-mail',
   com_auth_email_verification_rate_limited:
@@ -1690,8 +1690,8 @@ export const comparisons = {
     translated: 'Enviar registro',
   },
   com_auth_welcome_back: {
-    english: 'Welcome back',
-    translated: 'Bem-vindo de volta',
+    english: 'HYPRLAB CHAT',
+    translated: 'HYPRLAB CHAT',
   },
   com_auth_back_to_login: {
     english: 'Back to Login',
