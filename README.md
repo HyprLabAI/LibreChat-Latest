@@ -1,1 +1,0 @@
-## HyprLab Chat Playground
